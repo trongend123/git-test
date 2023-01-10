@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/trongend123/git-test/issues"
   },
-  "homepage": "https://github.com/trongend123/git-test#readme"
+  "homepage": "https://github.com/trongend123/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
