@@ -1,0 +1,22 @@
+{
+  "name": "node-module",
+  "version": "1.0.0",
+  "description": "Lite-Server in NodeJs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trongend123/git-test.git"
+  },
+  "keywords": [
+    "web-server"
+  ],
+  "author": "AnhNV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trongend123/git-test/issues"
+  },
+  "homepage": "https://github.com/trongend123/git-test#readme"
+}
